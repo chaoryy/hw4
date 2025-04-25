@@ -1,0 +1,1 @@
+ C:\\Users\\ASUS\\AndroidStudioProjects\\EZY\\.dart_tool\\flutter_build\\7ece95e7d31e073ccb84237d51c3432a\\native_assets.json: 
